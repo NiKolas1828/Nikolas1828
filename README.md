@@ -1,5 +1,2 @@
-### Hi there 👋, I´m Nicolas Rodriguez
-## System engineer student 
-
-- 🔭 I’m currently on Universidad del Valle
-- 🌱 I’m currently learning Java.
+💻 Estudiante de Ingeniería en Sistemas | Me interesa el desarrollo web, bases de datos y soluciones backend
+🚀 Siempre buscando nuevos retos para mejorar mis habilidades.
